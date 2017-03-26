@@ -10,15 +10,15 @@ CONTENTS                                                          *auto-header*
 ===============================================================================
 1. Intro                                                    *auto-header-intro*
 
-Overview of plugin
+This plugin use cpplint's diagnosis message to auto include missing header
 
 2. Requirements                                      *auto-header-requirements*
 
-What additional programs are required to run the plugin
+This plugin need cpplint.py to find the missing header
 
 3. Usage                                                    *auto-header-usage*
 
-How to use the plugin. What functions does it give the user?
+Run :AutoHeader to include missing header
 
 4. Licence                                                *auto-header-licence*
 
