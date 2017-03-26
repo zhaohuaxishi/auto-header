@@ -1,0 +1,27 @@
+*auto-header.txt* A short multi line description of your plugin
+
+===============================================================================
+CONTENTS                                                          *auto-header*
+
+    1. Intro .............................................. |auto-header-intro|
+    2. Requirements ................................ |auto-header-requirements|
+    3. Usage .............................................. |auto-header-usage|
+    4. Licence .......................................... |auto-header-licence|
+===============================================================================
+1. Intro                                                    *auto-header-intro*
+
+Overview of plugin
+
+2. Requirements                                      *auto-header-requirements*
+
+What additional programs are required to run the plugin
+
+3. Usage                                                    *auto-header-usage*
+
+How to use the plugin. What functions does it give the user?
+
+4. Licence                                                *auto-header-licence*
+
+This is open source make sure to include a licence
+
+vim:ft=help
